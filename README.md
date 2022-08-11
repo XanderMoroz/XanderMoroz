@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://github.com/XanderMoroz/XanderMoroz/blob/main/pixel_header.gif" width="1024"/>
+  <img src="https://github.com/XanderMoroz/XanderMoroz/blob/main/pixel_header.gif" width="800"/>
 </div>
 
 
