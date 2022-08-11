@@ -24,30 +24,40 @@
 <div align="center">
  <h2 >Languages, frameworks, libraries, databases and other tools:</h2>
  
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Python.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Django.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Celery.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Json.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Docker.png">
+  <img width="15%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Python.png">
+  <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Django.png">
+  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Celery.png">
+  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Json.png">
+  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Docker.png">
   <br />
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Bulma.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Tailwind.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Postgres.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Redis.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/SQLite.png">
+  <img width="15%" alt="Bulma" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Bulma.png">
+  <img width="15%" alt="Tailwind" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Tailwind.png">
+  <img width="15%" alt="Postgres" title="Database" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Postgres.png">
+  <img width="15%" alt="Redis" title="Database" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Redis.png">
+  <img width="15%" alt="SQLite" title="Database" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/SQLite.png">
   <br />
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Linux.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/PyCharm.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/VSCode.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Figma.png">
-  <img width="15%" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Miro.png">
+  <img width="15%" alt="Linux" title="Operating system" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Linux.png">
+  <img width="15%" alt="PyCharm" title="IDLE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/PyCharm.png">
+  <img width="15%" alt="VSCode" title="IDLE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/VSCode.png">
+  <img width="15%" alt="Figma" title="Design" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Figma.png">
+  <img width="15%" alt="Miro" title="Workflows" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Miro.png">
   <br />
 </div>
 
+<!-- Statistic section -->
+<div align="center">
+ <h2 >Statistic:</h2>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XanderMoroz&layout=compact">
+</div>
+ 
+ <!--
+<div id="footer" align="center">
+  <img src="https://github.com/XanderMoroz/XanderMoroz/blob/main/pixel_header.gif" width="800"/>
+</div>
+-->
 
-
-### :fire: My Stats :
-
+ 
+ 
 <!--
 **XanderMoroz/XanderMoroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,9 +73,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 I was not interested in Machine Learning
 * 🧐   Interested in full stack. Recent focus on Infra.
--->
-<!--
-<div id="header" align="center">
-  <img src="https://github.com/XanderMoroz/XanderMoroz/blob/main/pixel_header.gif" width="800"/>
-</div>
 -->
