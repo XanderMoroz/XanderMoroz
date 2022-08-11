@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://github.com/XanderMoroz/XanderMoroz/blob/main/pixel_header.gif" width="1024"/>
+</div>
+
+
+
 <!--
 **XanderMoroz/XanderMoroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
