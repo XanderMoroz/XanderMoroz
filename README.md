@@ -47,17 +47,15 @@
 <!-- Statistic section -->
 <div align="center">
  <h2 >Statistic:</h2>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XanderMoroz&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XanderMoroz&hide=html&hide_title=true&hide_border=true&layout=compact">
 </div>
- 
- <!--
-<div id="footer" align="center">
-  <img src="https://github.com/XanderMoroz/XanderMoroz/blob/main/pixel_header.gif" width="800"/>
-</div>
--->
 
- 
- 
+<!-- Footer section -->
+<div id="footer" align="center">
+  <img src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/pixel_footer.gif" width="800"/>
+</div>
+
+
 <!--
 **XanderMoroz/XanderMoroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
