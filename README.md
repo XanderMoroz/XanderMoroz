@@ -47,7 +47,7 @@
 <!-- Statistic section -->
 <div align="center">
  <h2 >Statistic:</h2>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XanderMoroz&hide=html&hide_title=true&hide_border=true&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XanderMoroz&hide=css,html&hide_title=true&hide_border=true&layout=compact">
 </div>
 
 <!-- Footer section 
