@@ -34,6 +34,17 @@
   <img width="17%" alt="Ubuntu" title="OS" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Ubuntu.svg">
   <img width="17%" alt="Git" title="Version Control" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Git.svg">
   <img width="17%" alt="RabbitMQ" title="Message Broker" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/RabbitMQ.svg">
+  <h3 > Web Frameworks and libraries I use: </h3>
+  <img width="17%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.svg">
+  <img width="17%" alt="FastAPI" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/FastAPI.svg">
+  <img width="17%" alt="Flask" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Flask.svg">
+  <img width="17%" alt="SQLAlchemy" title="ORM" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Alchemy.svg">
+  <img width="17%" alt="Alembic" title="Migration" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Alembic.svg">
+  <br />
+  <img width="17%" alt="Fiber" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Fiber.svg">
+  <img width="17%" alt="Gin" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Gin.svg">
+  <img width="17%" alt="Gorilla Mux" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Gorilla.svg">
+  <img width="17%" alt="Gorm" title="ORM" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Gorm.svg">
   <br />
   <h3 > Databases in which I store my data:</h3>
   <img width="17%" alt="Redis" title="Cache" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Redis.svg">
@@ -42,19 +53,7 @@
   <img width="17%" alt="MySQL" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MySQL.svg">
   <img width="17%" alt="MongoDB" title="NoSQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MongoDB.svg">
   <br />
-  <h3 > Web Frameworks and libraries I use: </h3>
-  <img width="17%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.svg">
-  <img width="17%" alt="FastAPI" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/FastAPI.svg">
-  <img width="17%" alt="Flask" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Flask.svg">
-  <img width="17%" alt="SQLAlchemy" title="ORM" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Alchemy.svg">
-  <img width="17%" alt="Alembic" title="Migration" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Alembic.svg">
-  <br />
-  <img width="15%" alt="Linux" title="Operating system" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Linux.png">
-  <img width="15%" alt="PyCharm" title="IDLE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/PyCharm.png">
-  <img width="15%" alt="VSCode" title="IDLE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/VSCode.png">
-  <img width="15%" alt="Figma" title="Design" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Figma.png">
-  <img width="15%" alt="Miro" title="Workflows" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Miro.png">
-  <br />
+  
 </div>
 
 <!-- Statistic section -->
