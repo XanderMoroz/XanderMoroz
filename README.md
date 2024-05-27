@@ -60,7 +60,7 @@
   <img width="17%" alt="Minikube" title="Orchestration" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Minikube.svg">
   <img width="17%" alt="Prometheus" title="Monitoring" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Prometheus.svg">
   <br />
-  <h3 > Tools help me deploy, brainstorm, plan, co-work with: </h3>
+  <h3 > Tools help me brainstorm, plan, co-work with: </h3>
   <img width="17%" alt="Obsidian" title="Knowledge Base" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Obsidian.svg">
   <img width="17%" alt="Miro" title="Brainstorm" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Miro.svg">
   <img width="17%" alt="Confluence" title="Documentation" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Confluence.svg">
