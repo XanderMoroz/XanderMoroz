@@ -6,19 +6,7 @@
 </p>
 
 <!-- Social icons section
-<p align="center">
-  <a href="https://www.behance.net/moroz07068ab55">
-    <img width="32px" alt="Behance" title="Look my profile" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/behance%403x.png"/>
-  </a>
-  <a href="mailto:moroz070688@gmail.com">
-    <img width="32px" alt="GMail" title="Send an email" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/google%403x.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alexander-moroz">
-    <img width="32px" alt="Linkedin" title="Look my profile" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/linkedin%403x.png"/>
-  </a>
-  <a href="https://t.me/XandrFrost">
-    <img width="32px" alt="Telegram" title="Send a message" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/telegram%403x.png"></a>
-</p>
+
 -->
 <!-- Tech Stack section -->
 <div align="center">
@@ -62,12 +50,6 @@
   <img width="17%" alt="Confluence" title="Documentation" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Confluence.svg">
   <img width="17%" alt="Jira" title="Planning" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Jira.svg">
   <br />
-  <h3 > Connect with Me </h3>
-  <p align="center">Feel free to explore my repositories, raise issues, or contribute. If you have any questions or just want to chat about tech, connect with me.</p>
-  </p>
-
-
-Happy coding! 🚀
 </div>
 
 <!-- Statistic section -->
@@ -76,11 +58,28 @@ Happy coding! 🚀
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XanderMoroz&hide=css,html&hide_title=true&hide_border=true&layout=compact">
 </div>
 
-<!-- Footer section 
+<!-- Footer section -->
 <div id="footer" align="center">
-  <img src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/pixel_footer.gif" width="800"/>
+ <h3 > Connect with Me </h3>
+  <p align="center">Feel free to explore my repositories, raise issues, or contribute. If you have any questions or just want to chat about tech, connect with me.</p>
+  </p>
+ <p align="center">
+  <a href="https://www.behance.net/moroz07068ab55">
+    <img width="32px" alt="Behance" title="Look my profile" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/behance%403x.png"/>
+  </a>
+  <a href="mailto:moroz070688@gmail.com">
+    <img width="32px" alt="GMail" title="Send an email" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/google%403x.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-moroz">
+    <img width="32px" alt="Linkedin" title="Look my profile" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/linkedin%403x.png"/>
+  </a>
+  <a href="https://t.me/XandrFrost">
+    <img width="32px" alt="Telegram" title="Send a message" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/telegram%403x.png">
+  </a>
+  <p align="center">Happy coding! 🚀</p>
+</p>
 </div>
--->
+
 
 <!--
 **XanderMoroz/XanderMoroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
