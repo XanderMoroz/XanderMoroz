@@ -22,7 +22,7 @@
 
 <!-- Tech Stack section -->
 <div align="center">
- <h2 >Languages, frameworks, libraries, databases and other tools:</h2>
+ <h2 > :shipit: Programming Languages, frameworks, libraries, databases and other tools:</h2>
  
   <img width="20%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Python.svg">
   <img width="20%" alt="Bash" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Bash.svg">
