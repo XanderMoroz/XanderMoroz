@@ -61,22 +61,19 @@
 <!-- Footer section -->
 <div id="footer" align="center">
  <h3 > Connect with Me </h3>
-  <p align="center">Feel free to explore my repositories, raise issues, or contribute. If you have any questions or just want to chat about tech, connect with me.</p>
+  <p align="center">Feel free to explore my repositories, raise issues, or contribute.</p>
+  <p align="center">If you have any questions or just want to chat about tech, connect with me.</p>
   </p>
+ <!--
  <p align="center">
-  <a href="https://www.behance.net/moroz07068ab55">
-    <img width="32px" alt="Behance" title="Look my profile" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/behance%403x.png"/>
-  </a>
   <a href="mailto:moroz070688@gmail.com">
     <img width="32px" alt="GMail" title="Send an email" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/google%403x.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/alexander-moroz">
-    <img width="32px" alt="Linkedin" title="Look my profile" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/linkedin%403x.png"/>
-  </a>
+ -->
   <a href="https://t.me/XandrFrost">
     <img width="32px" alt="Telegram" title="Send a message" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/telegram%403x.png">
   </a>
-  <p align="center">Happy coding! 🚀</p>
+  <!--<p align="center">Happy coding! 🚀</p> -->
 </p>
 </div>
 
