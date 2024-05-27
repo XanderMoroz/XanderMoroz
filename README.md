@@ -22,18 +22,18 @@
 
 <!-- Tech Stack section -->
 <div align="center">
- <h3 > Programming languages ​​I love:</h3>
+ <h3 > Programming languages I love:</h3>
  
   <img width="17%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Python.svg">
   <img width="17%" alt="Bash" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Bash.svg">
   <img width="17%" alt="Golang" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Golang.svg">
   <br />
   <h3 > The Setup I'm working on:</h3>
-  <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.png">
-  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Celery.png">
-  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Json.png">
-  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.png">
-  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.png">
+  <img width="17%" alt="PyCharm" title="IDE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/PyCharm.svg">
+  <img width="17%" alt="VScode" title="IDE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/VSCode.svg">
+  <img width="17%" alt="Ubuntu" title="OS" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Ubuntu.svg">
+  <img width="17%" alt="Git" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Git.svg">
+  <img width="17%" alt="RabbitMQ" title="Message Broker" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/RabbitMQ.svg">
   <br />
   <h3 > Frameworks I use:</h3>
   <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.png">
