@@ -35,12 +35,12 @@
   <img width="17%" alt="Git" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Git.svg">
   <img width="17%" alt="RabbitMQ" title="Message Broker" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/RabbitMQ.svg">
   <br />
-  <h3 > Frameworks I use:</h3>
-  <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.png">
-  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Celery.png">
-  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Json.png">
-  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.png">
-  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.png">
+  <h3 > Databases in which I store my data:</h3>
+  <img width="17%" alt="Redis" title="Cache" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Redis.svg">
+  <img width="17%" alt="SQLite" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/SQLite.svg">
+  <img width="17%" alt="Postgres" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Postgres.svg">
+  <img width="17%" alt="MySQL" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MySQL.svg">
+  <img width="17%" alt="MongoDB" title="NoSQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MongoDB.svg">
   <br />
   <h3 > Frameworks I useProgramming languages ​​I love Programming Languages, frameworks, libraries, databases and other tools Database 
 which store my data:</h3>
