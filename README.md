@@ -24,7 +24,7 @@
 <div align="center">
  <h2 >Languages, frameworks, libraries, databases and other tools:</h2>
  
-  <img width="15%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Python.png">
+  <img width="15%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Python.svg">
   <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Django.png">
   <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Celery.png">
   <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Json.png">
