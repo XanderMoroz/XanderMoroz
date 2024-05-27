@@ -43,11 +43,11 @@
   <img width="17%" alt="MongoDB" title="NoSQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MongoDB.svg">
   <br />
   <h3 > Web Frameworks and libraries I use: </h3>
-  <img width="17%" alt="Django" title="Cache" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.svg">
-  <img width="17%" alt="FastAPI" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/FastAPI.svg">
-  <img width="17%" alt="Flask" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Flask.svg">
-  <img width="17%" alt="SQLAlchemy" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Alchemy.svg">
-  <img width="17%" alt="Pydantic" title="NoSQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Pydantic.svg">
+  <img width="17%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.svg">
+  <img width="17%" alt="FastAPI" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/FastAPI.svg">
+  <img width="17%" alt="Flask" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Flask.svg">
+  <img width="17%" alt="SQLAlchemy" title="ORM" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Alchemy.svg">
+  <img width="17%" alt="Alembic" title="Migration" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Alembic.svg">
   <br />
   <img width="15%" alt="Linux" title="Operating system" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Linux.png">
   <img width="15%" alt="PyCharm" title="IDLE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/PyCharm.png">
