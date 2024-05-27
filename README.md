@@ -27,7 +27,7 @@
   <img width="20%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Python.svg">
   <img width="20%" alt="Bash" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Bash.svg">
   <img width="20%" alt="Golang" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Golang.svg">
-
+  <br />
   <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Django.png">
   <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Celery.png">
   <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Json.png">
