@@ -32,7 +32,7 @@
   <img width="17%" alt="PyCharm" title="IDE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/PyCharm.svg">
   <img width="17%" alt="VScode" title="IDE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/VSCode.svg">
   <img width="17%" alt="Ubuntu" title="OS" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Ubuntu.svg">
-  <img width="17%" alt="Git" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Git.svg">
+  <img width="17%" alt="Git" title="Version Control" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Git.svg">
   <img width="17%" alt="RabbitMQ" title="Message Broker" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/RabbitMQ.svg">
   <br />
   <h3 > Databases in which I store my data:</h3>
