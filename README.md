@@ -42,13 +42,12 @@
   <img width="17%" alt="MySQL" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MySQL.svg">
   <img width="17%" alt="MongoDB" title="NoSQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MongoDB.svg">
   <br />
-  <h3 > Frameworks I useProgramming languages ​​I love Programming Languages, frameworks, libraries, databases and other tools Database 
-which store my data:</h3>
-  <img width="15%" alt="Bulma" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Bulma.png">
-  <img width="15%" alt="Tailwind" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Tailwind.png">
-  <img width="15%" alt="Postgres" title="Database" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Postgres.png">
-  <img width="15%" alt="Redis" title="Database" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Redis.png">
-  <img width="15%" alt="SQLite" title="Database" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/SQLite.png">
+  <h3 > Web Frameworks and libraries I use: </h3>
+  <img width="17%" alt="Django" title="Cache" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.svg">
+  <img width="17%" alt="FastAPI" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/FastAPI.svg">
+  <img width="17%" alt="Flask" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Flask.svg">
+  <img width="17%" alt="SQLAlchemy" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Alchemy.svg">
+  <img width="17%" alt="Pydantic" title="NoSQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Pydantic.svg">
   <br />
   <img width="15%" alt="Linux" title="Operating system" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Linux.png">
   <img width="15%" alt="PyCharm" title="IDLE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/PyCharm.png">
