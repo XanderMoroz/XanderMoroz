@@ -5,7 +5,7 @@
  <p align="center">I'm a passionate backend developer with expertise in Python and Go. My journey in the world of software engineering has been filled with exciting challenges, creative problem-solving, and continuous learning. Whether it's optimizing database queries, designing RESTful APIs, or diving into microservices architecture, I thrive on turning ideas into robust, efficient code.</p>
 </p>
 
-<!-- Social icons section -->
+<!-- Social icons section
 <p align="center">
   <a href="https://www.behance.net/moroz07068ab55">
     <img width="32px" alt="Behance" title="Look my profile" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/behance%403x.png"/>
@@ -19,7 +19,7 @@
   <a href="https://t.me/XandrFrost">
     <img width="32px" alt="Telegram" title="Send a message" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/telegram%403x.png"></a>
 </p>
-
+-->
 <!-- Tech Stack section -->
 <div align="center">
  <h3 > Programming languages I love:</h3>
