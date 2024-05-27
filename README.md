@@ -27,7 +27,6 @@
   <img width="17%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Python.svg">
   <img width="17%" alt="Bash" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Bash.svg">
   <img width="17%" alt="Golang" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Golang.svg">
-  <br />
   <h3 > The Setup I'm working on:</h3>
   <img width="17%" alt="PyCharm" title="IDE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/PyCharm.svg">
   <img width="17%" alt="VScode" title="IDE" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/VSCode.svg">
@@ -45,27 +44,23 @@
   <img width="17%" alt="Gin" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Gin.svg">
   <img width="17%" alt="Gorilla Mux" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Gorilla.svg">
   <img width="17%" alt="Gorm" title="ORM" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Gorm.svg">
-  <br />
   <h3 > Databases in which I store my data:</h3>
   <img width="17%" alt="Redis" title="Cache" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Redis.svg">
   <img width="17%" alt="SQLite" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/SQLite.svg">
   <img width="17%" alt="Postgres" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Postgres.svg">
   <img width="17%" alt="MySQL" title="SQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MySQL.svg">
   <img width="17%" alt="MongoDB" title="NoSQL" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/MongoDB.svg">
-  <br />
   <h3 > Tools help me deploy, scale and observe:</h3>
   <img width="17%" alt="GitLab" title="Cache" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/GitLab.svg">
   <img width="17%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.svg">
   <img width="17%" alt="Compose" title="Config" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Compose.svg">
   <img width="17%" alt="Minikube" title="Orchestration" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Minikube.svg">
   <img width="17%" alt="Prometheus" title="Monitoring" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Prometheus.svg">
-  <br />
   <h3 > Tools help me brainstorm, plan, co-work with: </h3>
   <img width="17%" alt="Obsidian" title="Knowledge Base" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Obsidian.svg">
   <img width="17%" alt="Miro" title="Brainstorm" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Miro.svg">
   <img width="17%" alt="Confluence" title="Documentation" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Confluence.svg">
   <img width="17%" alt="Jira" title="Planning" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Jira.svg">
-  
   <br />
 </div>
 
