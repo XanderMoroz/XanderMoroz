@@ -22,17 +22,28 @@
 
 <!-- Tech Stack section -->
 <div align="center">
- <h2 > :shipit: Programming Languages, frameworks, libraries, databases and other tools:</h2>
+ <h3 > Programming languages ​​I love:</h3>
  
-  <img width="20%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Python.svg">
-  <img width="20%" alt="Bash" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Bash.svg">
-  <img width="20%" alt="Golang" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Golang.svg">
+  <img width="17%" alt="Python" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Python.svg">
+  <img width="17%" alt="Bash" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Bash.svg">
+  <img width="17%" alt="Golang" title="Language" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Golang.svg">
   <br />
-  <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Django.png">
-  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Celery.png">
-  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Json.png">
-  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Docker.png">
+  <h3 > The Setup I'm working on:</h3>
+  <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.png">
+  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Celery.png">
+  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Json.png">
+  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.png">
+  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.png">
   <br />
+  <h3 > Frameworks I use:</h3>
+  <img width="15%" alt="Django" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Django.png">
+  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Celery.png">
+  <img width="15%" alt="Celery" title="Library" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Json.png">
+  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.png">
+  <img width="15%" alt="Docker" title="Container" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Docker.png">
+  <br />
+  <h3 > Frameworks I useProgramming languages ​​I love Programming Languages, frameworks, libraries, databases and other tools Database 
+which store my data:</h3>
   <img width="15%" alt="Bulma" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Bulma.png">
   <img width="15%" alt="Tailwind" title="Framework" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Tailwind.png">
   <img width="15%" alt="Postgres" title="Database" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/logotools/Postgres.png">
