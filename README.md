@@ -2,7 +2,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/XanderMoroz_pixel-photo.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Alexandr.</h2>
- <p align="center">I'm a tech enthusiast who loves to learn about new things. Connect with me!</p>
+ <p align="center">I'm a passionate backend developer with expertise in Python and Go. My journey in the world of software engineering has been filled with exciting challenges, creative problem-solving, and continuous learning. Whether it's optimizing database queries, designing RESTful APIs, or diving into microservices architecture, I thrive on turning ideas into robust, efficient code.</p>
 </p>
 
 <!-- Social icons section -->
@@ -62,6 +62,12 @@
   <img width="17%" alt="Confluence" title="Documentation" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Confluence.svg">
   <img width="17%" alt="Jira" title="Planning" src="https://github.com/XanderMoroz/XanderMoroz/blob/main/static_files/stack_logos/Jira.svg">
   <br />
+  <h3 > Connect with Me </h3>
+  <p align="center">Feel free to explore my repositories, raise issues, or contribute. If you have any questions or just want to chat about tech, connect with me.</p>
+  </p>
+
+
+Happy coding! 🚀
 </div>
 
 <!-- Statistic section -->
